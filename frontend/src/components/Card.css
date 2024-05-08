@@ -1,0 +1,15 @@
+.lista-cards {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .containerList {
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+  }
+    .hover-effect:hover {
+      background-color: #f0f0f0; 
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+    }
